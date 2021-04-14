@@ -2,7 +2,7 @@
 - 👀 I’m a Software Developer focused on web development  :)
 - 🌱 I’m currently studying Computer Engineering at Universidad Autonoma del Estado de Mexico
 - 💞️ I’m working at Robert Bosch Mexico (TlP) as Software Developer
-- 📫 You can find on LinkedIn: 
+- 📫 You can find me on LinkedIn: 
 https://www.linkedin.com/in/areyci-huerta-patiño-159158192/
 - 📫 Or by email: arhupa@outlook.es
 
